@@ -9,3 +9,9 @@ LANGUAGE PROFICIENCY
 - Front-End: HTML, CSS, JavaScript
 - Simple Back-End: C#, Python, Java
 - MERN Stack: MongoDB, Express.js, React.js, Node.js
+
+
+Looking forward to diving deep into the coding world and creating cool projects
+
+Feel free to contact me to collaborate on projects
+
