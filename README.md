@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @hodanysf!
 
-👀 Passionate about Front-End Code and web design.
+👀 Passionate about Full Stack Code and Web Design.
 
 🌱 Currently, I'm immersed in learning TypeScript and honing my skills in Front-End languages and frameworks through small projects.
 
@@ -10,7 +10,7 @@
 
 **LANGUAGE PROFICIENCY**
 - Front-End: HTML, CSS, JavaScript 🚀
-- Simple Back-End: C#, Python, Java 💻
+- Back-End: C#, Python, Java 💻
 - MERN Stack: MongoDB, Express.js, React.js, Node.js 🌐
 
 Looking forward to diving deep into the coding world and creating cool projects! Feel free to contact me to collaborate on exciting endeavors. 🚧✨
