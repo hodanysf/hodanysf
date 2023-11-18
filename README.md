@@ -14,7 +14,7 @@
 - MERN Stack: MongoDB, Express.js, React.js, Node.js 🌐
 - Design Tools: Figma
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,express,figma,git,github,linux,powershell,react,mongodb,java,python)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,express,figma,git,github,linux,powershell,react,mongodb,java,python,typescript)](https://skillicons.dev)
 
 
 Looking forward to diving deep into the coding world and creating cool projects! Feel free to contact me to collaborate on exciting endeavors. 🚧✨
