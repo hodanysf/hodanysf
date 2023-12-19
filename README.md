@@ -8,7 +8,6 @@ I've honed my skills in full-stack web development, specializing in crafting vis
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [hodanyssff@gmail.com](mailto:hodanyssff@gmail.com)
-* 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Creative Projects / Design
 
 ### Skills
