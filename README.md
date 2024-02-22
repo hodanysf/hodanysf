@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hodan Yusuf
 ===================================================================================================================================
 
-Front Developer and UX/UI Designer
+Front End Developer and UX/UI Designer
 ---------------------------------------
 
-I've honed my skills in full-stack web development, specializing in crafting visually appealing and user-friendly websites. Proficient in HTML, CSS, JavaScript, and various programming languages, I immerse myself in learning to stay at the forefront of industry trends. My passion extends to user experience (UX) design, where I integrate creative website designs with a focus on providing seamless and engaging interactions. Beyond coding, I actively manage smaller software projects, ensuring a holistic approach to development. Beyond my technical skills, I bring a creative approach to UX design principles, enhancing the user journey. My goal is to create immersive web applications and deliver memorable and intuitive user experiences. Currently pursuing my degree, I'm eager to contribute my diverse skill set to impactful web development projects.
+I've honed my skills in web development, specializing in crafting visually appealing and user-friendly websites. Proficient in HTML, CSS, JavaScript, and various programming languages, I immerse myself in learning to stay at the forefront of industry trends. My passion extends to user experience (UX) design, where I integrate creative website designs with a focus on providing seamless and engaging interactions. Beyond coding, I actively manage smaller software projects, ensuring a holistic approach to development. Beyond my technical skills, I bring a creative approach to UX design principles, enhancing the user journey. My goal is to create immersive web applications and deliver memorable and intuitive user experiences. Currently pursuing my degree, I'm eager to contribute my diverse skill set to impactful web development projects.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [hodanyssff@gmail.com](mailto:hodanyssff@gmail.com)
